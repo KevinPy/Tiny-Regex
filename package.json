@@ -1,0 +1,20 @@
+{
+  "name": "tiny-regex",
+  "version": "1.0.0",
+  "description": "Test your RegEx quickly",
+  "author": "Kevin Py",
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.4",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "browser-sync": "^2.23.3",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
